@@ -37,63 +37,8 @@
 .icon-entrega-mano:before {
   content: "\e903";
 }
-.icon-barco .path1:before {
+.icon-barco:before {
   content: "\e909";
-  color: rgb(4, 6, 6);
-}
-.icon-barco .path2:before {
-  content: "\e90a";
-  margin-left: -1em;
-  color: rgb(16, 15, 13);
-}
-.icon-barco .path3:before {
-  content: "\e90b";
-  margin-left: -1em;
-  color: rgb(16, 15, 13);
-}
-.icon-barco .path4:before {
-  content: "\e90c";
-  margin-left: -1em;
-  color: rgb(16, 15, 13);
-}
-.icon-barco .path5:before {
-  content: "\e90d";
-  margin-left: -1em;
-  color: rgb(16, 15, 13);
-}
-.icon-barco .path6:before {
-  content: "\e90e";
-  margin-left: -1em;
-  color: rgb(16, 15, 13);
-}
-.icon-barco .path7:before {
-  content: "\e90f";
-  margin-left: -1em;
-  color: rgb(16, 15, 13);
-}
-.icon-barco .path8:before {
-  content: "\e910";
-  margin-left: -1em;
-  color: rgb(16, 15, 13);
-}
-.icon-barco .path9:before {
-  content: "\e911";
-  margin-left: -1em;
-  color: rgb(16, 15, 13);
-}
-.icon-barco .path10:before {
-  content: "\e912";
-  margin-left: -1em;
-  color: rgb(16, 15, 13);
-}
-.icon-barco .path11:before {
-  content: "\e913";
-  margin-left: -1em;
-  color: rgb(4, 6, 6);
-}
-.icon-barco .path12:before {
-  content: "\e914";
-  margin-left: -1em;
   color: rgb(4, 6, 6);
 }
 .icon-advertencia:before {
