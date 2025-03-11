@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?k1wmg1');
-  src:  url('fonts/icomoon.eot?k1wmg1#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?k1wmg1') format('truetype'),
-    url('fonts/icomoon.woff?k1wmg1') format('woff'),
-    url('fonts/icomoon.svg?k1wmg1#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?fc5t9i');
+  src:  url('fonts/icomoon.eot?fc5t9i#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?fc5t9i') format('truetype'),
+    url('fonts/icomoon.woff?fc5t9i') format('woff'),
+    url('fonts/icomoon.svg?fc5t9i#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -37,12 +37,29 @@
 .icon-entrega-mano:before {
   content: "\e903";
 }
-.icon-barco:before {
-  content: "\e909";
-  color: rgb(4, 6, 6);
-}
 .icon-advertencia:before {
   content: "\e904";
+}
+.icon-aeropuerto:before {
+  content: "\e90b";
+}
+.icon-barco:before {
+  content: "\e90c";
+}
+.icon-dashboard:before {
+  content: "\e90f";
+}
+.icon-delivery:before {
+  content: "\e910";
+}
+.icon-home:before {
+  content: "\e911";
+}
+.icon-leadtime:before {
+  content: "\e912";
+}
+.icon-user:before {
+  content: "\e913";
 }
 .icon-entrega:before {
   content: "\e905";
